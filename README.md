@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Lucas Sudol  
+# Hi, I'm Lucas Sudol  
 
 🎓 Software Engineering student at the **University of Guelph**, pursuing an area of application in **Artificial Intelligence**.  
-💻 Passionate about **software development, computer vision, and AI**, with hands-on experience in full-stack projects, parallel computing, and system design.  
+💻 Passionate about **software development, computer vision, and AI**, with hands-on experience in parallel computing, and system design.  
 🚀 Always exploring ways to combine creativity and technology to build impactful solutions.  
 
 ---
@@ -16,13 +16,13 @@
 
 ## 🌟 Projects  
 
-### 🔹 Structure from Motion Pipeline (2025)  
+### 🔹 Structure from Motion Pipeline 
 📷 Developed a 3D reconstruction pipeline that matches image features and estimates camera poses to generate 3D models.  
 
-### 🔹 Image Processing Kernel (2024–Present)  
+### 🔹 Image Processing Kernel 
 ⚡ Implementing advanced sharpening algorithms using **Nvidia Warp** in Python to enhance image clarity.  
 
-### 🔹 Linux Media Server (2024)  
+### 🔹 Linux Media Server  
 🎶 Built a Linux-based server for efficient multimedia streaming with secure remote access.  
 
 ### 🔹 Academic Highlights  
@@ -34,7 +34,7 @@
 
 ## 💼 Experience  
 
-**Software QA Intern – Legal Aid Ontario (2025)**  
+**Software QA Intern – Legal Aid Ontario (May - August 2025)**  
 - Built a scalable Python scripting library to automate regression testing across multiple applications.  
 
 **Emergency Instructor – DPCDSB (2023–2025)**  
@@ -54,5 +54,3 @@
 - 🖥️ [GitHub](https://github.com/lucas-sudol)  
 
 ---
-
-⭐️ _“I love solving complex problems with elegant code — and I’m always looking for new challenges to grow as an engineer.”_
