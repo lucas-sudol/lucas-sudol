@@ -28,7 +28,8 @@
 ### 🔹 Academic Highlights  
 - **MPI String Decryption:** Parallel brute force tool with MPI for optimized performance.  
 - **Multithreaded Pi Calculator:** Worker-pool model using pthreads.  
-- **Full-Stack 8-Ball Pool Simulator:** Shared physics library + webserver for real-time gameplay.  
+- **Full-Stack 8-Ball Pool Simulator:** Shared physics library + webserver for real-time gameplay.
+  - [View the project](https://github.com/lucas-sudol/8-Ball-Pool)
 
 ---
 
