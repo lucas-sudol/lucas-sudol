@@ -19,15 +19,15 @@
 ### 🔹 Structure from Motion Pipeline 
 📷 Developed a 3D reconstruction pipeline that matches image features and estimates camera poses to generate 3D models.  
 
-### 🔹 Image Processing Kernel 
+### 🔹 [Image Processing Kernel](https://github.com/lucas-sudol/NvidiaWarpImageProcessing) 
 ⚡ Implementing advanced sharpening algorithms using **Nvidia Warp** in Python to enhance image clarity.  
 
 ### 🔹 Linux Media Server  
 🎶 Built a Linux-based server for efficient multimedia streaming with secure remote access.  
 
 ### 🔹 Academic Highlights  
-- **MPI String Decryption:** Parallel brute force tool with MPI for optimized performance.  
-- **Multithreaded Pi Calculator:** Worker-pool model using pthreads.  
+- **[MPI String Decryption](https://github.com/lucas-sudol/MPIEncryptionDecoder):** Parallel brute force tool with MPI for optimized performance.  
+- **[Multithreaded Pi Calculator](https://github.com/lucas-sudol/ThreadBasedScheduler):** Worker-pool model using pthreads.  
 - **[Full-Stack 8-Ball Pool Simulator](https://github.com/lucas-sudol/8-Ball-Pool):** Shared physics library + webserver for real-time gameplay.
 
 ---
@@ -51,6 +51,5 @@
 ## 📫 Connect with Me  
 - ✉️ [lucassudol@icloud.com](mailto:lucassudol@icloud.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-sudol-a23325224/)  
-- 🖥️ [GitHub](https://github.com/lucas-sudol)  
 
 ---
