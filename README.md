@@ -16,7 +16,7 @@
 
 ## 🌟 Projects  
 
-### 🔹 Structure from Motion Pipeline 
+### 🔹 [Structure from Motion Pipeline](https://github.com/lucas-sudol/StructureFromMotionPipeline)
 📷 Developed a 3D reconstruction pipeline that matches image features and estimates camera poses to generate 3D models.  
 
 ### 🔹 [Image Processing Kernel](https://github.com/lucas-sudol/NvidiaWarpImageProcessing) 
@@ -35,7 +35,11 @@
 ## 💼 Experience  
 
 **Software QA Intern – Legal Aid Ontario (May - August 2025)**  
-- Built a scalable Python scripting library to automate regression testing across multiple applications.  
+- Built a scalable **Python scripting library** to automate regression testing across multiple applications.  
+- Designed **modular test frameworks** with reusable components, improving maintainability and reducing manual QA time.  
+- Integrated automated test pipelines with **GitHub** for version control and continuous improvement.  
+- Improved debugging workflows by developing **custom logging utilities** and enhancing error reporting.  
+- Collaborated with developers and QA teams in an **Agile/Scrum** environment, contributing to sprint planning and feature validation.  
 
 **Emergency Instructor – DPCDSB (2023–2025)**  
 - Facilitated lessons, encouraged collaboration, and adapted teaching methods to student needs.  
